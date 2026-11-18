@@ -1,0 +1,27 @@
+{
+  "start_page": 2,
+  "total_books": 100,
+  "covers_available": 10,
+  "catalog_pages": [
+    {
+      "url": "https://books.toscrape.com/catalogue/page-2.html",
+      "validated_books": 20
+    },
+    {
+      "url": "https://books.toscrape.com/catalogue/page-3.html",
+      "validated_books": 20
+    },
+    {
+      "url": "https://books.toscrape.com/catalogue/page-4.html",
+      "validated_books": 20
+    },
+    {
+      "url": "https://books.toscrape.com/catalogue/page-5.html",
+      "validated_books": 20
+    },
+    {
+      "url": "https://books.toscrape.com/catalogue/page-6.html",
+      "validated_books": 20
+    }
+  ]
+}
