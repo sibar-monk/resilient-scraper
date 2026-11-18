@@ -4,7 +4,7 @@ Collect 100 unique books from five consecutive catalog pages at [Books to Scrape
 
 ## Set up in VS Code
 
-Extract `resilient-scraper.zip` and open the **`resilient-scraper/`** folder in VS Code. Open **Terminal → New Terminal** and check that `main.py` is in the current folder. Run the commands below with **Python 3.12**.
+Open the **`resilient-scraper/`** folder in VS Code. Open **Terminal → New Terminal** and check that `main.py` is in the current folder. Run the commands below with **Python 3.12**.
 
 | Action | Windows PowerShell | macOS or Linux |
 | --- | --- | --- |
